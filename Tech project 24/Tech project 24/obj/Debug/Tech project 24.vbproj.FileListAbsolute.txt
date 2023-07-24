@@ -1,0 +1,9 @@
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\bin\Debug\Tech project 24.exe.config
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\bin\Debug\Tech project 24.exe
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\bin\Debug\Tech project 24.pdb
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\bin\Debug\Tech project 24.xml
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\obj\Debug\Tech_project_24.Resources.resources
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\obj\Debug\Tech project 24.vbproj.GenerateResource.Cache
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\obj\Debug\Tech project 24.exe
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\obj\Debug\Tech project 24.xml
+C:\Users\S.V.Aditha Dinuja\OneDrive\Documents\exe files\VB pro tech\Tech project 24\Tech project 24\obj\Debug\Tech project 24.pdb
